@@ -1,117 +1,136 @@
-# B S Tejender Singh
+# Hi, I'm B S Tejender Singh 👋
 
-Computer Science (AI/ML) student at Polaris School of Technology with a strong interest in Artificial Intelligence, Machine Learning, Software Engineering, and Open Source Development.
+### Computer Science (AI/ML) Student | Software Engineering | Open Source
 
-I enjoy building practical software projects, strengthening core computer science fundamentals, and applying AI concepts to real-world problems. Currently seeking opportunities to learn, contribute, and grow through projects, internships, and open-source collaboration.
+I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Polaris School of Technology. I enjoy building practical software, learning core computer science concepts, and exploring how AI can be applied to real-world problems.
+
+Currently, I'm focused on strengthening my **DSA, backend development, databases, machine learning, and open-source development** skills.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE (AI/ML) — Polaris School of Technology
-* 💡 Interested in AI/ML, Software Engineering, and Open Source
-* 🌱 Continuously learning Data Structures, Databases, System Design, and Machine Learning
-* 🔍 Focused on building real-world projects and improving problem-solving skills
-* 🤝 Open to collaboration, learning opportunities, and internship roles
+- 🎓 B.Tech CSE (AI/ML) — Polaris School of Technology
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Interested in Software Engineering and Full-Stack Development
+- 🌱 Currently learning DSA, DBMS, Machine Learning, and System Design
+- 🌍 Exploring Open Source Contribution and collaborative development
+- 🚀 Enjoy building projects that solve practical problems
+- 🤝 Open to internships, collaborations, and open-source opportunities
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### Cogniflix
+### 🎬 Cogniflix
 
-AI-powered movie recommendation and streaming platform designed to provide personalized content discovery and user engagement.
+An AI-powered movie recommendation and streaming platform focused on personalized content discovery and user engagement.
 
-**Key Features**
-
-* JWT-based authentication and authorization
-* Movie discovery and search functionality
-* User interaction tracking
-* Recommendation system foundation
-* TMDB API integration
-* PostgreSQL-backed data management
+**Features**
+- JWT-based authentication and authorization
+- Movie discovery and search
+- TMDB API integration
+- User interaction tracking
+- Recommendation system foundation
+- PostgreSQL-backed data management
 
 **Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL, JWT
 
 ---
 
-### Resume Matcher
+### 📄 Resume Matcher
 
-NLP-based application that analyzes resumes and matches them against job descriptions using text-processing and similarity-scoring techniques.
+An NLP-based application that analyzes resumes and compares them with job descriptions using text-processing and similarity-scoring techniques.
 
-**Key Features**
-
-* Resume parsing
-* Keyword extraction
-* Similarity scoring
-* Resume-job matching
-* Natural Language Processing workflow
+**Features**
+- Resume parsing
+- Keyword extraction
+- Text preprocessing
+- Similarity scoring
+- Resume-to-job matching
+- NLP-based analysis workflow
 
 **Tech Stack:** Python, NLP, Machine Learning
 
 ---
 
-## 🛠 Technical Skills
+### 🌐 Nova Studio — Digital Agency Platform
+
+A full-stack digital agency platform built as an internship project.
+
+🔗 **Live:** https://nova-studio-digital-agency.vercel.app/  
+🔗 **GitHub:** https://github.com/Tejender06/nova-studio-digital-agency
+
+**Features**
+- Responsive digital agency landing page
+- Dynamic services, portfolio, and statistics
+- Contact form with validation
+- PostgreSQL database integration
+- Protected admin panel
+- Portfolio project management
+- Contact submission management
+- Authentication and authorization
+- MongoDB integration for analytics
+- Vercel deployment
+
+**Tech Stack:** Next.js, TypeScript, Material UI, PostgreSQL, MongoDB, JWT, Git, GitHub
+
+---
+
+## 🛠️ Technical Skills
 
 ### Languages
-
-* Python
-* JavaScript
-* SQL
+`Python` `JavaScript` `TypeScript` `SQL` `Go`
 
 ### Frontend
-
-* React
-* TypeScript
-* HTML
-* CSS
+`React` `Next.js` `HTML` `CSS` `Material UI`
 
 ### Backend
-
-* Node.js
-* Express.js
+`Node.js` `Express.js` `Next.js API Routes`
 
 ### Databases
+`PostgreSQL` `MySQL` `MongoDB`
 
-* PostgreSQL
-* MySQL
-* MongoDB
+### AI / ML
+`Machine Learning` `NLP` `Recommendation Systems`
 
-### Tools
-
-* Git
-* GitHub
-* Linux
-* Postman
+### Tools & Platforms
+`Git` `GitHub` `Linux` `Postman` `Vercel` `Supabase` `MongoDB Atlas`
 
 ---
 
-## 📚 Current Focus
+## 📚 Currently Learning
 
-* Data Structures and Algorithms
-* Database Management Systems (DBMS)
-* JavaScript Internals
-* Machine Learning Fundamentals
-* Open Source Contribution Workflows
-* Full-Stack Application Development
+- 🧠 Data Structures & Algorithms
+- 🗄️ Database Management Systems
+- ⚙️ Backend & API Development
+- 🤖 Machine Learning Fundamentals
+- 🐹 Go Programming
+- 🌍 Open Source Contribution
+- 🏗️ System Design Fundamentals
+- 🔧 Software Engineering Practices
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Goals
 
-* Build impactful AI-driven applications
-* Develop strong software engineering fundamentals
-* Contribute consistently to open-source projects
-* Gain hands-on industry experience through internships
-* Grow into an AI/ML Engineer capable of building production-ready systems
+- Build impactful AI-powered applications
+- Become a strong software engineer
+- Make meaningful open-source contributions
+- Gain hands-on industry experience
+- Improve problem-solving and DSA skills
+- Build production-ready applications
+- Grow into an AI/ML Engineer
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/bstejendersingh/
-* GitHub: https://github.com/Tejender06
+- 💼 LinkedIn: https://www.linkedin.com/in/bstejendersingh/
+- 🐙 GitHub: https://github.com/Tejender06
 
 ---
 
-*"Learning by building, improving through consistency, and growing one project at a time."*
+### 💭 Philosophy
+
+> **Learning by building, improving through consistency, and growing one project at a time.**
