@@ -1,11 +1,10 @@
-# Hi, I'm B S Tejender Singh 👋
+# Hi, I'm B S Tejender Singh 
 
 ### Computer Science (AI/ML) Student | Software Engineering | Open Source
 
 I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at **Polaris School of Technology**. I enjoy building practical software, learning core computer science concepts, and exploring how AI and ML can be applied to real-world problems.
 
 Currently, I'm focused on strengthening my **Data Structures & Algorithms, backend development, databases, machine learning, and open-source development** skills.
-
 
 ## Featured Projects
 
