@@ -6,59 +6,44 @@ I'm a Computer Science student specializing in **Artificial Intelligence and Mac
 
 Currently, I'm focused on strengthening my **Data Structures & Algorithms, backend development, databases, machine learning, and open-source development** skills.
 
----
 
-## 👨‍💻 About Me
+## Featured Projects
 
-* 🎓 B.Tech Computer Science (AI/ML) — Polaris School of Technology
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 💻 Interested in Software Engineering and Full-Stack Development
-* 🧠 Currently improving my DSA and problem-solving skills
-* 🗄️ Learning DBMS, backend development, and system design fundamentals
-* 🌍 Exploring open-source contribution and collaborative development
-* 🚀 Enjoy building practical projects and learning through implementation
-* 🤝 Open to internships, collaborations, and open-source opportunities
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 Cogniflix — Movie Recommendation Platform
+### Cogniflix — Movie Recommendation Platform
 
 An AI/ML-focused movie streaming and recommendation platform designed to improve personalized content discovery and user engagement.
 
 **Links**
 
-* 🌐 [Live Demo](https://main.d3pelnl55s3qgs.amplifyapp.com/)
-* ⚙️ [Backend API](https://cogniflix-backend.onrender.com/)
-* 💻 [GitHub Repository](https://github.com/Tejender06/Cogniflix)
+*  [Live Demo](https://main.d3pelnl55s3qgs.amplifyapp.com/)
+*  [Backend API](https://cogniflix-backend.onrender.com/)
+*  [GitHub Repository](https://github.com/Tejender06/Cogniflix)
 
 ---
 
-### 📄 Resume Matcher — NLP Application
+### Resume Matcher — NLP Application
 
 An NLP-based application that analyzes resumes and compares them with job descriptions using text preprocessing, keyword extraction, and similarity-scoring techniques.
 
 **Links**
 
-* 🌐 [Live Demo](https://resume-matcher-jade-rho.vercel.app/)
-* ⚙️ [Backend API](https://resume-matcher-rzm8.onrender.com/)
-* 💻 [GitHub Repository](https://github.com/Tejender06/Resume-Matcher)
+*  [Live Demo](https://resume-matcher-jade-rho.vercel.app/)
+*  [Backend API](https://resume-matcher-rzm8.onrender.com/)
+*  [GitHub Repository](https://github.com/Tejender06/Resume-Matcher)
 
 ---
 
-### 🌐 Nova Studio — Digital Agency Platform
+### Nova Studio — Digital Agency Platform
 
 A full-stack digital agency platform built as an internship project using Next.js, TypeScript, PostgreSQL, MongoDB, and Material UI.
 
 **Links**
 
-* 🌐 [Live Demo](https://nova-studio-digital-agency.vercel.app/)
-* 💻 [GitHub Repository](https://github.com/Tejender06/nova-studio-digital-agency)
-
+*  [Live Demo](https://nova-studio-digital-agency.vercel.app/)
+*  [GitHub Repository](https://github.com/Tejender06/nova-studio-digital-agency)
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -70,8 +55,8 @@ A full-stack digital agency platform built as an internship project using Next.j
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-* 💼 LinkedIn: [linkedin.com/in/bstejendersingh](https://www.linkedin.com/in/bstejendersingh/)
-* 🐙 GitHub: [github.com/Tejender06](https://github.com/Tejender06)
+*  LinkedIn: [linkedin.com/in/bstejendersingh](https://www.linkedin.com/in/bstejendersingh/)
+*  GitHub: [github.com/Tejender06](https://github.com/Tejender06)
 
