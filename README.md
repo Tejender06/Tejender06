@@ -42,8 +42,6 @@ A full-stack digital agency platform built as an internship project using Next.j
 *  [GitHub Repository](https://github.com/Tejender06/nova-studio-digital-agency)
 ---
 
----
-
 ##  Connect With Me
 
 *  LinkedIn: [linkedin.com/in/bstejendersingh](https://www.linkedin.com/in/bstejendersingh/)
